@@ -23,35 +23,6 @@ My core interest lies in using robust quantitative methods and computational too
 
 ---
 
-## 🛠️ Technical Skills & Expertise
-
-*   **Programming & Software:**
-    *   **R Language:** Advanced (Data Wrangling, Statistical Modeling, Visualization, Function Development, Shiny Apps)
-    *   Python: (Intermediate, for AI/ML projects)
-    *   RStudio, GitHub, LaTeX, JASP, SPSS
-*   **Statistical & Psychometric Methods:**
-    *   Development & Validation of Psychometric Scales
-    *   Confirmatory Factor Analysis (CFA) & Structural Equation Modeling (SEM)
-    *   Network Psychometric Analysis
-    *   Reliability Analysis (Classical & Modern)
-    *   Bivariate & Multivariate Analyses
-    *   Nonparametric Tests
-    *   Mediation & Moderation Analysis
-    *   Item Response Theory (IRT) 
-    *   Longitudinal Data Analysis / Trajectory Modeling
-*   **Artificial Intelligence & Data Science:**
-    *   Text Mining
-    *   Machine Learning
-    *   Music Information Retrivel
-    *   Computational Intelligence (Ongoing Specialization at UFV)
-*   **Research Methods:**
-    *   Quantitative Data Analysis
-    *   Thematic Analysis
-    *   Academic Writing & Peer-Reviewed Publications
-    *   Ethnographical Research
-
----
-
 ## 🚀 Featured Repositories & Projects
 
 Here are a few highlights from my GitHub:
@@ -81,6 +52,34 @@ Here are a few highlights from my GitHub:
         *   Estimates Crawford's modified t-test for comparing an individual's score to a small normative sample.
         *   App: [https://vmsfue-frederico-pedrosa.shinyapps.io/t_crawford/](https://vmsfue-frederico-pedrosa.shinyapps.io/t_crawford/)
 
+---
+
+## 🛠️ Technical Skills & Expertise
+
+*   **Programming & Software:**
+    *   **R Language:** Advanced (Data Wrangling, Statistical Modeling, Visualization, Function Development, Shiny Apps)
+    *   Python: (Intermediate, for AI/ML projects)
+    *   RStudio, GitHub, LaTeX, JASP, SPSS
+*   **Statistical & Psychometric Methods:**
+    *   Development & Validation of Psychometric Scales
+    *   Confirmatory Factor Analysis (CFA) & Structural Equation Modeling (SEM)
+    *   Network Psychometric Analysis
+    *   Reliability Analysis (Classical & Modern)
+    *   Bivariate & Multivariate Analyses
+    *   Nonparametric Tests
+    *   Mediation & Moderation Analysis
+    *   Item Response Theory (IRT) 
+    *   Longitudinal Data Analysis / Trajectory Modeling
+*   **Artificial Intelligence & Data Science:**
+    *   Text Mining
+    *   Machine Learning
+    *   Music Information Retrivel
+    *   Computational Intelligence (Ongoing Specialization at UFV)
+*   **Research Methods:**
+    *   Quantitative Data Analysis
+    *   Thematic Analysis
+    *   Academic Writing & Peer-Reviewed Publications
+    *   Ethnographical Research
 
 ---
 
