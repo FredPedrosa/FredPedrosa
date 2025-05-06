@@ -27,7 +27,7 @@ My core interest lies in using robust quantitative methods and computational too
 
 Here are a few highlights from my GitHub:
 
-*   📊 **[DASS-21 Analysis: Psychometric Properties and Anxiety Predictors](https://github.com/FredPedrosa/DASS_analyses)** <!-- Substitua pelo link real se for diferente -->
+*   📊 **[DASS-21 Analysis: Psychometric Properties and Anxiety Predictors](https://github.com/FredPedrosa/DASS_21)** <!-- Substitua pelo link real se for diferente -->
     *   Comprehensive psychometric evaluation (CFA, Reliability, Network Analysis) and predictor identification for the DASS-21 in a Brazilian undergraduate sample. Includes detailed R Markdown analysis.
 
 *   🎵 **[Multimodal Song Circumplex Analysis (song_sent_scores)](https://github.com/FredPedrosa/song_sent_scores)**
