@@ -15,7 +15,7 @@
 
 ## 🎸🔬 About Me
 
-I am an Assistant Professor at the Federal University of Minas Gerais (UFMG), Brazil, with a PhD in Music. My academic and professional journey integrates **Music**, **Music Therapy**, **Mental Health**, and **Psychometrics**, with a strong focus on developing and validating assessment tools and other forms of assess outcomes related to music and health. Since 2020, my work has increasingly incorporated **Data Analysis**, **Statistics**, and **Artificial Intelligence (AI)**, including NLP and machine learning applications.
+I am an Assistant Professor at the Federal University of Minas Gerais (UFMG), Brazil, with a PhD in Music. My academic and professional journey integrates **Music**, **Music Therapy**, **Mental Health**, and **Psychometrics** with a focus on developing and validating assessment tools and other strategies to measure outcomes in music and health. Since 2020, my work has increasingly incorporated **Data Analysis**, **Statistics**, and **Artificial Intelligence (AI)**, including NLP and machine learning applications.
 
 I lead research initiatives aimed at measuring the impact of music therapy interventions and collaborate with the Music Oriented Systems and Artificial Intelligence and Creativity group (MOSAIC/UFMG). My participation in the BEYOND program further hones my interdisciplinary skills in applying emerging technologies to music therapy and psychometric research.
 
